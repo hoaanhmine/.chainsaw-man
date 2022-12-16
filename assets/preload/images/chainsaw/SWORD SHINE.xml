@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SWORD SHINE.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sword shine0000" x="0" y="0" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0001" x="0" y="0" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0002" x="0" y="0" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0003" x="0" y="0" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0004" x="194" y="0" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0005" x="194" y="0" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0006" x="388" y="0" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0007" x="388" y="0" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0008" x="582" y="0" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0009" x="582" y="0" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0010" x="776" y="0" width="145" height="232"/>
+	<SubTexture name="sword shine0011" x="0" y="282" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0012" x="0" y="282" width="144" height="232" frameX="0" frameY="0" frameWidth="145" frameHeight="232"/>
+	<SubTexture name="sword shine0013" x="194" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0014" x="194" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0015" x="389" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0016" x="389" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0017" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0018" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0019" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0020" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0021" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0022" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0023" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0024" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0025" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0026" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0027" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0028" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0029" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0030" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0031" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0032" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0033" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0034" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0035" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0036" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0037" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0038" x="584" y="282" width="145" height="232"/>
+	<SubTexture name="sword shine0039" x="584" y="282" width="145" height="232"/>
+</TextureAtlas>

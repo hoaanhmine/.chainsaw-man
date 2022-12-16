@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ROAR.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DENJI ROAR0000" x="0" y="0" width="1330" height="1191" frameX="0" frameY="0" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0001" x="0" y="0" width="1330" height="1191" frameX="0" frameY="0" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0002" x="1380" y="0" width="1331" height="1035" frameX="-206" frameY="-183" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0003" x="1380" y="0" width="1331" height="1035" frameX="-206" frameY="-183" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0004" x="2761" y="0" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0005" x="2761" y="0" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0006" x="4142" y="0" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0007" x="4142" y="0" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0008" x="5523" y="0" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0009" x="5523" y="0" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0010" x="0" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0011" x="0" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0012" x="1381" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0013" x="1381" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0014" x="2762" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0015" x="4143" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0016" x="2762" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0017" x="4143" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0018" x="4143" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0019" x="4143" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0020" x="5524" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0021" x="5524" y="1241" width="1331" height="1035" frameX="-252" frameY="-240" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0022" x="0" y="2326" width="1331" height="1035" frameX="-252" frameY="-259" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0023" x="0" y="2326" width="1331" height="1035" frameX="-252" frameY="-259" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0024" x="1381" y="2326" width="1331" height="1035" frameX="-252" frameY="-297" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0025" x="2762" y="2326" width="1331" height="1035" frameX="-252" frameY="-259" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0026" x="4143" y="2326" width="1438" height="1143" frameX="-198" frameY="-218" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0027" x="4143" y="2326" width="1438" height="1143" frameX="-198" frameY="-218" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0028" x="5631" y="2326" width="1438" height="1118" frameX="-198" frameY="-218" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0029" x="5631" y="2326" width="1438" height="1118" frameX="-198" frameY="-218" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0030" x="0" y="3519" width="1438" height="1118" frameX="-198" frameY="-225" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0031" x="0" y="3519" width="1438" height="1118" frameX="-198" frameY="-225" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0032" x="0" y="3519" width="1438" height="1118" frameX="-198" frameY="-225" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0033" x="0" y="3519" width="1438" height="1118" frameX="-198" frameY="-225" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0034" x="0" y="3519" width="1438" height="1118" frameX="-198" frameY="-225" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0035" x="0" y="3519" width="1438" height="1118" frameX="-198" frameY="-225" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0036" x="0" y="3519" width="1438" height="1118" frameX="-198" frameY="-225" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0037" x="0" y="3519" width="1438" height="1118" frameX="-198" frameY="-225" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0038" x="0" y="3519" width="1438" height="1118" frameX="-198" frameY="-225" frameWidth="1636" frameHeight="1361"/>
+	<SubTexture name="DENJI ROAR0039" x="0" y="3519" width="1438" height="1118" frameX="-198" frameY="-225" frameWidth="1636" frameHeight="1361"/>
+</TextureAtlas>

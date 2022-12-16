@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOOB BUBBLE.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOOB BUBBLE0000" x="0" y="0" width="79" height="73" frameX="-53" frameY="-85" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0001" x="129" y="0" width="94" height="95" frameX="-48" frameY="-72" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0002" x="129" y="0" width="94" height="95" frameX="-48" frameY="-72" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0003" x="273" y="0" width="172" height="154" frameX="0" frameY="0" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0004" x="273" y="0" width="172" height="154" frameX="0" frameY="0" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0005" x="495" y="0" width="167" height="150" frameX="-2" frameY="-2" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0006" x="495" y="0" width="167" height="150" frameX="-2" frameY="-2" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0007" x="495" y="0" width="167" height="150" frameX="-2" frameY="-2" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0008" x="495" y="0" width="167" height="150" frameX="-2" frameY="-2" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0009" x="495" y="0" width="167" height="150" frameX="-2" frameY="-2" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0010" x="495" y="0" width="167" height="150" frameX="-2" frameY="-2" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0011" x="495" y="0" width="167" height="150" frameX="-2" frameY="-2" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0012" x="495" y="0" width="167" height="150" frameX="-2" frameY="-2" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE0013" x="495" y="0" width="167" height="150" frameX="-2" frameY="-2" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0000" x="712" y="0" width="173" height="154" frameX="0" frameY="0" frameWidth="173" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0001" x="712" y="0" width="173" height="154" frameX="0" frameY="0" frameWidth="173" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0002" x="0" y="204" width="171" height="152" frameX="-1" frameY="-1" frameWidth="173" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0003" x="0" y="204" width="171" height="152" frameX="-1" frameY="-1" frameWidth="173" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0004" x="129" y="0" width="94" height="95" frameX="-49" frameY="-72" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0005" x="129" y="0" width="94" height="95" frameX="-49" frameY="-72" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0006" x="0" y="0" width="79" height="73" frameX="-54" frameY="-85" frameWidth="172" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0007" x="221" y="204" width="0" height="0" frameX="-46" frameY="-72" frameWidth="173" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0008" x="221" y="204" width="0" height="0" frameX="-46" frameY="-72" frameWidth="173" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0009" x="221" y="204" width="0" height="0" frameX="-46" frameY="-72" frameWidth="173" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0010" x="221" y="204" width="0" height="0" frameX="-46" frameY="-72" frameWidth="173" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0011" x="221" y="204" width="0" height="0" frameX="-46" frameY="-72" frameWidth="173" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0012" x="221" y="204" width="0" height="0" frameX="-46" frameY="-72" frameWidth="173" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE EXIT0013" x="221" y="204" width="0" height="0" frameX="-46" frameY="-72" frameWidth="173" frameHeight="167"/>
+	<SubTexture name="BOOB BUBBLE LOOP0000" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0001" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0002" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0003" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0004" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0005" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0006" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0007" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0008" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0009" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0010" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0011" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0012" x="271" y="204" width="167" height="150"/>
+	<SubTexture name="BOOB BUBBLE LOOP0013" x="271" y="204" width="167" height="150"/>
+</TextureAtlas>

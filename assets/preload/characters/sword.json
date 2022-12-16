@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				34
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SWORD IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SWORD LEFT"
+		},
+		{
+			"offsets": [
+				65,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SWORD DOWN"
+		},
+		{
+			"offsets": [
+				62,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SWORD UP"
+		},
+		{
+			"offsets": [
+				27,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SWORD RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SWORD GUY",
+	"position": [
+		-90,
+		-140
+	],
+	"healthicon": "sword",
+	"flip_x": false,
+	"healthbar_colors": [
+		27,
+		43,
+		94
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SWORD ROAR.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SWORD ROAR0000" x="0" y="0" width="1136" height="1114" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0001" x="0" y="0" width="1136" height="1114" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0002" x="1186" y="0" width="1136" height="1120" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0003" x="1186" y="0" width="1136" height="1120" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0004" x="2372" y="0" width="1136" height="1123" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0005" x="2372" y="0" width="1136" height="1123" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0006" x="3558" y="0" width="1136" height="1119" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0007" x="4744" y="0" width="1136" height="1119" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0008" x="5930" y="0" width="1136" height="1111" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0009" x="0" y="1173" width="1136" height="1111" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0010" x="0" y="1173" width="1136" height="1111" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0011" x="1186" y="1173" width="1136" height="1111" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0012" x="1186" y="1173" width="1136" height="1111" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0013" x="2372" y="1173" width="1136" height="1111" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0014" x="3558" y="1173" width="1136" height="1119" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0015" x="4744" y="1173" width="1136" height="1119" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0016" x="5930" y="1173" width="1136" height="1123" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0017" x="0" y="2346" width="1136" height="1123" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0018" x="1186" y="2346" width="1136" height="1102" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0019" x="2372" y="2346" width="1136" height="1539" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0020" x="3558" y="2346" width="1144" height="1349" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0021" x="4752" y="2346" width="1136" height="1148" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0022" x="5938" y="2346" width="1136" height="1131" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0023" x="0" y="3935" width="1136" height="1131" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0024" x="1186" y="3935" width="1136" height="1136" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0025" x="1186" y="3935" width="1136" height="1136" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0026" x="2372" y="3935" width="1136" height="1151" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0027" x="2372" y="3935" width="1136" height="1151" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0028" x="3558" y="3935" width="1136" height="1146" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0029" x="3558" y="3935" width="1136" height="1146" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0030" x="2372" y="3935" width="1136" height="1151" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0031" x="2372" y="3935" width="1136" height="1151" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0032" x="3558" y="3935" width="1136" height="1146" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0033" x="3558" y="3935" width="1136" height="1146" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0034" x="4744" y="3935" width="1136" height="1150" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0035" x="4744" y="3935" width="1136" height="1150" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0036" x="5930" y="3935" width="1136" height="1142" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0037" x="5930" y="3935" width="1136" height="1142" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0038" x="3558" y="3935" width="1136" height="1146" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0039" x="3558" y="3935" width="1136" height="1146" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0040" x="0" y="5136" width="1136" height="1144" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0041" x="0" y="5136" width="1136" height="1144" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0042" x="0" y="5136" width="1136" height="1144" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0043" x="1186" y="5136" width="1136" height="1144" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0044" x="2372" y="5136" width="1136" height="1144" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0045" x="3558" y="5136" width="1144" height="1332" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0046" x="4752" y="5136" width="1144" height="1349" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0047" x="4752" y="5136" width="1144" height="1349" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0048" x="5946" y="5136" width="1144" height="1343" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+	<SubTexture name="SWORD ROAR0049" x="5946" y="5136" width="1144" height="1343" frameX="0" frameY="0" frameWidth="1144" frameHeight="1539"/>
+</TextureAtlas>

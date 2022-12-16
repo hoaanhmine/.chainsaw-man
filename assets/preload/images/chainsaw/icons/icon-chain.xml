@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icon-chain.png"><SubTexture name="chain norm0000" x="0" y="0" width="234" height="154" frameX="0" frameY="0" frameWidth="234" frameHeight="154" />
+<SubTexture name="chain lose0000" x="0" y="154" width="234" height="154" frameX="0" frameY="0" frameWidth="234" frameHeight="154" />
+</TextureAtlas>

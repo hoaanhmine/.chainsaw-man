@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "SAM IDLE"
+		},
+		{
+			"offsets": [
+				312,
+				-41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SAM LEFT"
+		},
+		{
+			"offsets": [
+				-21,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SAM DOWN"
+		},
+		{
+			"offsets": [
+				30,
+				237
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SAM UP"
+		},
+		{
+			"offsets": [
+				-68,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SAM RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SAM FINAL",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		27,
+		43,
+		94
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

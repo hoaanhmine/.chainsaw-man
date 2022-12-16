@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-149,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "GAME OVER ENTER"
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "GAME OVER0"
+		},
+		{
+			"offsets": [
+				-145,
+				-13
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "GAME OVER LOOP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GameOver",
+	"position": [
+		0,
+		220
+	],
+	"healthicon": "denji",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		232,
+		139
+	],
+	"camera_position": [
+		-170,
+		-360
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DENJI SLIDE.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SLIDE ANIM0000" x="0" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0001" x="0" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0002" x="931" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0003" x="931" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0004" x="1862" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0005" x="1862" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0006" x="2793" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0007" x="2793" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0008" x="3724" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0009" x="3724" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0010" x="4655" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0011" x="5586" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0012" x="6517" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0013" x="6517" y="0" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0014" x="0" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0015" x="0" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0016" x="931" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0017" x="1862" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0018" x="1862" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0019" x="2793" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0020" x="2793" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0021" x="3724" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0022" x="3724" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0023" x="4655" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0024" x="4655" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0025" x="5586" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0026" x="5586" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0027" x="5586" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0028" x="5586" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0029" x="6517" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0030" x="6517" y="882" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0031" x="0" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0032" x="0" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0033" x="931" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0034" x="1862" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0035" x="2793" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0036" x="2793" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0037" x="3724" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0038" x="4655" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0039" x="5586" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0040" x="5586" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0041" x="5586" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0042" x="5586" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0043" x="5586" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0044" x="5586" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0045" x="5586" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0046" x="5586" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0047" x="5586" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0048" x="5586" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE ANIM0049" x="5586" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0000" x="6517" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0001" x="6517" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0002" x="0" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0003" x="0" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0004" x="931" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0005" x="931" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0006" x="1862" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0007" x="1862" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0008" x="2793" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0009" x="2793" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0010" x="2793" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0011" x="2793" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0012" x="2793" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN0013" x="2793" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN MISS0000" x="6517" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN MISS0001" x="6517" y="1764" width="881" height="832"/>
+	<SubTexture name="SLIDE DOWN MISS0002" x="3724" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE DOWN MISS0003" x="3724" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE DOWN MISS0004" x="4655" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE DOWN MISS0005" x="4655" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE DOWN MISS0006" x="5586" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE DOWN MISS0007" x="5586" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE DOWN MISS0008" x="5586" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE DOWN MISS0009" x="5586" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE DOWN MISS0010" x="5586" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE DOWN MISS0011" x="5586" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE DOWN MISS0012" x="5586" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE DOWN MISS0013" x="5586" y="2646" width="881" height="834"/>
+	<SubTexture name="SLIDE IDLE0000" x="6517" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0001" x="6517" y="2646" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0002" x="0" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0003" x="0" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0004" x="931" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0005" x="931" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0006" x="1862" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0007" x="1862" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0008" x="2793" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0009" x="2793" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0010" x="3724" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0011" x="3724" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0012" x="3724" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE IDLE0013" x="3724" y="3530" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT0000" x="4655" y="3530" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0001" x="4655" y="3530" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0002" x="6348" y="3530" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0003" x="6348" y="3530" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0004" x="0" y="4654" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0005" x="0" y="4654" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0006" x="1693" y="4654" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0007" x="1693" y="4654" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0008" x="3386" y="4654" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0009" x="3386" y="4654" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0010" x="3386" y="4654" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0011" x="3386" y="4654" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0012" x="3386" y="4654" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT0013" x="3386" y="4654" width="1643" height="1074"/>
+	<SubTexture name="SLIDE LEFT MISS0000" x="5079" y="4654" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0001" x="5079" y="4654" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0002" x="6010" y="4654" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0003" x="6010" y="4654" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0004" x="6941" y="4654" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0005" x="6941" y="4654" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0006" x="0" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0007" x="0" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0008" x="0" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0009" x="0" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0010" x="0" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0011" x="0" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0012" x="0" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE LEFT MISS0013" x="0" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0000" x="931" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0001" x="931" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0002" x="1862" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0003" x="1862" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0004" x="2793" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0005" x="2793" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0006" x="3724" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0007" x="3724" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0008" x="4655" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0009" x="4655" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0010" x="4655" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0011" x="4655" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0012" x="4655" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT0013" x="4655" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0000" x="931" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0001" x="931" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0002" x="5586" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0003" x="5586" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0004" x="6517" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0005" x="6517" y="5778" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0006" x="0" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0007" x="0" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0008" x="0" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0009" x="0" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0010" x="0" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0011" x="0" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0012" x="0" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE RIGHT MISS0013" x="0" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0000" x="931" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0001" x="931" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0002" x="1862" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0003" x="1862" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0004" x="2793" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0005" x="2793" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0006" x="3724" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0007" x="3724" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0008" x="4655" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0009" x="4655" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0010" x="4655" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0011" x="4655" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0012" x="4655" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP0013" x="4655" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP MISS0000" x="931" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP MISS0001" x="931" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP MISS0002" x="5586" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP MISS0003" x="5586" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP MISS0004" x="6517" y="6660" width="881" height="832"/>
+	<SubTexture name="SLIDE UP MISS0005" x="6517" y="6660" width="881" height="832"/>
+</TextureAtlas>

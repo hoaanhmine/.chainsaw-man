@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SWORD GUY.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SWORD DOWN0000" x="0" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0001" x="0" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0002" x="1505" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0003" x="1505" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0004" x="3010" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0005" x="3010" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0006" x="4515" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0007" x="4515" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0008" x="4515" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0009" x="4515" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0010" x="4515" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0011" x="4515" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0012" x="4515" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD DOWN0013" x="4515" y="0" width="1455" height="1073"/>
+	<SubTexture name="SWORD IDLE0000" x="6020" y="0" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0001" x="6020" y="0" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0002" x="0" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0003" x="0" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0004" x="1505" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0005" x="1505" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0006" x="3010" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0007" x="3010" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0008" x="4515" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0009" x="4515" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0010" x="6020" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0011" x="6020" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0012" x="6020" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD IDLE0013" x="6020" y="1124" width="1455" height="1074"/>
+	<SubTexture name="SWORD LEFT0000" x="0" y="2248" width="1331" height="998" frameX="0" frameY="-2" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0001" x="0" y="2248" width="1331" height="998" frameX="0" frameY="-2" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0002" x="1381" y="2248" width="1312" height="999" frameX="-20" frameY="-1" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0003" x="1381" y="2248" width="1312" height="999" frameX="-20" frameY="-1" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0004" x="2743" y="2248" width="1312" height="999" frameX="-21" frameY="-1" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0005" x="2743" y="2248" width="1312" height="999" frameX="-21" frameY="-1" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0006" x="4105" y="2248" width="1311" height="1000" frameX="-22" frameY="0" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0007" x="4105" y="2248" width="1311" height="1000" frameX="-22" frameY="0" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0008" x="5466" y="2248" width="1311" height="1000" frameX="-22" frameY="0" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0009" x="5466" y="2248" width="1311" height="1000" frameX="-22" frameY="0" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0010" x="5466" y="2248" width="1311" height="1000" frameX="-22" frameY="0" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0011" x="5466" y="2248" width="1311" height="1000" frameX="-22" frameY="0" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0012" x="6827" y="2248" width="1311" height="1000" frameX="-22" frameY="0" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD LEFT0013" x="0" y="3298" width="1311" height="1000" frameX="-22" frameY="0" frameWidth="1333" frameHeight="1000"/>
+	<SubTexture name="SWORD RIGHT0000" x="1361" y="3298" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0001" x="1361" y="3298" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0002" x="2866" y="3298" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0003" x="2866" y="3298" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0004" x="4371" y="3298" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0005" x="4371" y="3298" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0006" x="5876" y="3298" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0007" x="5876" y="3298" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0008" x="0" y="4422" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0009" x="0" y="4422" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0010" x="0" y="4422" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0011" x="0" y="4422" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0012" x="1505" y="4422" width="1455" height="1074"/>
+	<SubTexture name="SWORD RIGHT0013" x="3010" y="4422" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0000" x="4515" y="4422" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0001" x="4515" y="4422" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0002" x="6020" y="4422" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0003" x="6020" y="4422" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0004" x="0" y="5546" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0005" x="0" y="5546" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0006" x="1505" y="5546" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0007" x="1505" y="5546" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0008" x="3010" y="5546" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0009" x="3010" y="5546" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0010" x="3010" y="5546" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0011" x="3010" y="5546" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0012" x="3010" y="5546" width="1455" height="1074"/>
+	<SubTexture name="SWORD UP0013" x="3010" y="5546" width="1455" height="1074"/>
+</TextureAtlas>

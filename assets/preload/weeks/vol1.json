@@ -1,0 +1,32 @@
+{
+	"storyName": "Chains N' Swords",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "chainsaw",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Razorblades",
+			"denji",
+			[
+				235,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "vol1"
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DENJI PULL.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DENJI PULL ANIM0000" x="0" y="0" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0001" x="0" y="0" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0002" x="906" y="0" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0003" x="906" y="0" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0004" x="1812" y="0" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0005" x="1812" y="0" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0006" x="2718" y="0" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0007" x="2718" y="0" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0008" x="0" y="830" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0009" x="0" y="830" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0010" x="906" y="830" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0011" x="906" y="830" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0012" x="1812" y="830" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0013" x="1812" y="830" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0014" x="2718" y="830" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0015" x="2718" y="830" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0016" x="0" y="1660" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0017" x="0" y="1660" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0018" x="906" y="1660" width="856" height="780"/>
+	<SubTexture name="DENJI PULL ANIM0019" x="906" y="1660" width="856" height="780"/>
+</TextureAtlas>

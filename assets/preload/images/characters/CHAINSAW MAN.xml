@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CHAINSAW MAN.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CHAIN DOWN0000" x="0" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0001" x="640" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0002" x="1280" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0003" x="1920" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0004" x="2560" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0005" x="3200" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0006" x="3840" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0007" x="4480" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0008" x="5120" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0009" x="5760" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0010" x="6400" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0011" x="7040" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0012" x="6400" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN0013" x="7040" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0000" x="0" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0001" x="640" y="0" width="590" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0002" x="0" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0003" x="699" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0004" x="1398" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0005" x="2097" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0006" x="2796" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0007" x="3495" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0008" x="2796" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0009" x="3495" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0010" x="2796" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0011" x="3495" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0012" x="2796" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN DOWN MISS0013" x="3495" y="634" width="649" height="584"/>
+	<SubTexture name="CHAIN IDLE0000" x="4194" y="634" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0001" x="4789" y="634" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0002" x="5384" y="634" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0003" x="5979" y="634" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0004" x="6574" y="634" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0005" x="7169" y="634" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0006" x="0" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0007" x="595" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0008" x="1190" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0009" x="1785" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0010" x="1190" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0011" x="1785" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0012" x="1190" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN IDLE0013" x="1785" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0000" x="2380" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0001" x="2975" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0002" x="3570" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0003" x="4165" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0004" x="4760" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0005" x="5355" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0006" x="5950" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0007" x="6545" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0008" x="7140" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0009" x="0" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0010" x="595" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0011" x="1190" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0012" x="1785" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT0013" x="2380" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0000" x="2380" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0001" x="2975" y="1310" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0002" x="2975" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0003" x="3570" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0004" x="4165" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0005" x="4760" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0006" x="5355" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0007" x="5950" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0008" x="5355" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0009" x="5950" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0010" x="5355" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0011" x="5950" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0012" x="5355" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN LEFT MISS0013" x="5950" y="1986" width="545" height="626"/>
+	<SubTexture name="CHAIN RIGHT0000" x="6545" y="1986" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0001" x="7326" y="1986" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0002" x="0" y="2662" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0003" x="781" y="2662" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0004" x="1562" y="2662" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0005" x="2343" y="2662" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0006" x="3124" y="2662" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0007" x="3905" y="2662" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0008" x="4686" y="2662" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0009" x="5467" y="2662" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0010" x="6248" y="2662" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0011" x="7029" y="2662" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0012" x="0" y="3338" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0013" x="781" y="3338" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0014" x="1562" y="3338" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0015" x="2343" y="3338" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0016" x="3124" y="3338" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT0017" x="3905" y="3338" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0000" x="6545" y="1986" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0001" x="7326" y="1986" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0002" x="4686" y="3338" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0003" x="5467" y="3338" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0004" x="6248" y="3338" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0005" x="7029" y="3338" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0006" x="0" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0007" x="781" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0008" x="0" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0009" x="781" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0010" x="0" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0011" x="781" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0012" x="0" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0013" x="781" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0014" x="0" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0015" x="781" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0016" x="0" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN RIGHT MISS0017" x="781" y="4014" width="731" height="626"/>
+	<SubTexture name="CHAIN UP0000" x="1562" y="4014" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0001" x="2324" y="4014" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0002" x="3086" y="4014" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0003" x="3848" y="4014" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0004" x="4610" y="4014" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0005" x="5372" y="4014" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0006" x="6134" y="4014" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0007" x="6896" y="4014" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0008" x="0" y="4826" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0009" x="762" y="4826" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0010" x="1524" y="4826" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0011" x="2286" y="4826" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0012" x="1524" y="4826" width="712" height="762"/>
+	<SubTexture name="CHAIN UP0013" x="2286" y="4826" width="712" height="762"/>
+	<SubTexture name="CHAIN UP MISS0000" x="1562" y="4014" width="712" height="762"/>
+	<SubTexture name="CHAIN UP MISS0001" x="3048" y="4826" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0002" x="3810" y="4826" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0003" x="4572" y="4826" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0004" x="5334" y="4826" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0005" x="6096" y="4826" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0006" x="6858" y="4826" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0007" x="0" y="5735" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0008" x="6858" y="4826" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0009" x="0" y="5735" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0010" x="6858" y="4826" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0011" x="0" y="5735" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0012" x="6858" y="4826" width="712" height="859"/>
+	<SubTexture name="CHAIN UP MISS0013" x="0" y="5735" width="712" height="859"/>
+</TextureAtlas>
